@@ -1,0 +1,4 @@
+[submodule "charlineheurtault/proselis"]
+	path = charlineheurtault/proselis
+	url = git@github.com:charlineheurtault/proselis.git
+	branch = master
